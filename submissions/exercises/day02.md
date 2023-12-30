@@ -12,6 +12,6 @@ Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 __________________________________
 **My Inputs**
 - Link to my own file of Figma Basics Tutorial: https://www.figma.com/file/cEiHqrNUr0Yz4ssjvZjwFi/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A1668&mode=design&t=cPwq6cyiNg1PLBKV-1
-- Brief explanation: 
+- Brief explanation: I initially thought that Figma was a complicated platform, but after understanding the basics, I realized it was quite similar to Canva. The fun and engaging guidelines enhance the effectiveness of the learning process. In summary, I find Figma to be enjoyable and with continous practice, I can produce intricate designs efficiently.
 
 <!-- You may now delete and modify the content of this file -->
