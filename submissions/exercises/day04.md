@@ -12,3 +12,9 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 4**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
+
+________
+**My Input**
+
+- My link to Week 1 [Day 4] Activity: https://www.figma.com/file/KXJ3hxx361IjLgdtokIhiK/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=4%3A167&mode=design&t=f2Xvvc2J0nTVEXjp-1
+- 
