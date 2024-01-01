@@ -17,4 +17,9 @@ ________
 **My Input**
 
 - My link to Week 1 [Day 4] Activity: https://www.figma.com/file/KXJ3hxx361IjLgdtokIhiK/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=4%3A167&mode=design&t=f2Xvvc2J0nTVEXjp-1
-- 
+
+
+![Exercise One](https://github.com/MariahannaV/AWSCC-CodeQuest-UI-UX/assets/150335469/7fb9fad9-af4b-4088-8b40-72c702b5ebb0)
+![Exercise Two](https://github.com/MariahannaV/AWSCC-CodeQuest-UI-UX/assets/150335469/7a66c4c9-e940-49b5-afe0-1c060a192092)
+![FIX ME2](https://github.com/MariahannaV/AWSCC-CodeQuest-UI-UX/assets/150335469/bff5ed8e-ab9c-4f18-811c-cafe693c8076)
+
