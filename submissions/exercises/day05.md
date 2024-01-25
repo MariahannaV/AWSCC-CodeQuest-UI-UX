@@ -15,6 +15,6 @@ _________________
 **My Input:**
 - Link to own file: https://www.figma.com/file/vFoseR5Oafc38gcHA7UiZX/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=5%3A33&mode=design&t=QrzAJh5JttZ3DZB6-1
 - Brief Explanation:
-  > I was delayed in doing this exercise because of my busy schedule, but as I go back to figma and learned more about its other tools I became more determined in completing the exercises consecutively without fail. This day's exercise was fun, easy, and compehensive!
+   I was delayed in doing this exercise because of my busy schedule, but as I go back to figma and learned more about its other tools I became more determined in completing the exercises consecutively without fail. This day's exercise was fun, easy, and compehensive!
 
 <!-- You may now delete and modify the content of this file -->
